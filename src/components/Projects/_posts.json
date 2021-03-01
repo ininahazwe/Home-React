@@ -1,0 +1,37 @@
+[
+  {
+    "title": "PIOGE",
+    "slug": "pioge",
+    "content": "<h1>Toto</h1> <p>WordPress says edit or delete this kind of posts. I say just keep it. This is the Hello World post.</p> WordPress says edit or delete this kind of posts. I say just keep it. This is the Hello World post. WordPress says edit or delete this kind of posts. I say just keep it.",
+    "description": "How to tackle the issue of girls school dropouts in Africa",
+    "image" : "../../images/pioge.jpg"
+  },
+  {
+    "title": "Green Technology",
+    "slug": "green-technology",
+    "content": "The first lesson of React is to learn Javascript first. So, search 'Javascript Tutorial' in Google and follow it. Then, come back here. You'll see the tutorial when you are an Javascript expert. Then, come back here. You'll see the tutorial when you are an Javascript expert.(MAGIC)",
+    "description": "Poor irrigation techniques \nthat results into low vegetables\nproduction/yield and leads to lack of\nvegetables at the market.",
+    "image" : "../../images/1.jpg"
+  },
+  {
+    "title": "Hope and Learn",
+    "slug": "hope-learn",
+    "content": "The first lesson of React is to learn Javascript first. So, search 'Javascript Tutorial' in Google and follow it. Then, come back here. You'll see the tutorial when you are an Javascript expert. (MAGIC)",
+    "description": "why Quality education\nmatter? \nand what can be done to\nachive it.",
+    "image" : "../../images/hope.jpg"
+  },
+  {
+    "title": "Forch",
+    "slug": "Forch",
+    "content": "The first lesson of React is to learn Javascript first. So, search 'Javascript Tutorial' in Google and follow it. Then, come back here. You'll see the tutorial when you are an Javascript expert. (MAGIC)",
+    "description": "How can we decrease the\nmortality rate of chidren by\n\ncreating awareness of\nhygiene within the school\n\nenvironment?",
+    "image" : "../../images/forch.jpg"
+  },
+  {
+    "title": "Climate Change",
+    "slug": "climate-change",
+    "content": "The first lesson of React is to learn Javascript first. So, search 'Javascript Tutorial' in Google and follow it. Then, come back here. You'll see the tutorial when you are an Javascript expert. (MAGIC)",
+    "description": "This is the Hello World post. WordPress says edit or delete this kind of posts. I say just keep it.",
+    "image" : "../../images/climate.jpg"
+  }
+]

@@ -1,0 +1,30 @@
+[
+  {
+    "title": "Kigali Digital School",
+    "slug": "kigali2",
+    "description": "Due to the global pandemic, we propose to host the second edition of our Home SDG digital school as a combination of both virtual and physical meets.",
+    "content": "<p>Due to the global pandemic, we propose to host the second edition of our Home SDG digital school as a combination of both virtual and physical meets.<br> The scope of the program will cover many academic grounds that will train students in both soft- and hard-skills in and for digital solutions.<br> During the course of thirteen weeks, students will have the opportunity to learn by doing:</p>",
+    "content2": "<ul><li>Human-centered design, social engineering;</li><li>Data analysis, electronics, arduino-board technology</li><li>Web development, documentation tools, communication</li><li>Entrepreneurship, education, game design</li><li>Team-building, collaboration</li></ul>",
+    "image" : "../../images/kigali2.png",
+    "videoId" : "6AczfCLJkCQ"
+  },
+  {
+    "title": "Kigali SDG Summer school",
+    "slug": "kigali1",
+    "content": [
+      "<p>We were fortunate to begin a student project that sought to tackle traditional pedagogy, which includes the development and implementation of novel project-based activities.<p/><p>This reason arises from the realization that skills are developed when students have a direct, hands-on experience with projects.</p><p>Additionally, these skills are enhanced when students ideate, create and communicate to complete a designated assignment.</p><p>We have been able to implement our educational strategies in both Accra, Ghana and Kigali, Rwanda.</p><p>After a year of fundraising, building collaborations and developing our curriculum the Home team was able to create the first edition of the Home SDG Summer School in Kigali, Rwanda in August 2019.</p><p></p><p>The, culmination of our educational expedition has allowed us to build a network of collaborators and have the opportunity to share knowledge with the next generation agents of change.<p>Additionally, a major highlight of the experience was the invitation to create the second edition of Home SDG Summer School for 2020.<p/><p>We look forward to continuing current collaborations with our colleagues, and further create new collaborations with local institutions.<p/><p>Excitingly, the outcome of the first edition of the Home SDG Summer School was a success.<p/><p>All the participants, mentors and collaborators celebrated the experience and work at the closing ceremony for the summer school.<p/><p>At the closing ceremony, students had the opportunity to present and discuss their projects, and further reflect on the skills each participant has obtained.<p/><p>Additionally, many representatives from outreach programs (e.g., Unesco Rwanda and UNDP) were present to provide feedback and empowerment to the students.</p>"
+    ],
+
+    "description": "After a successful experience in Ghana, we were empowered by our mentors and peers at CRI-Paris to continue our educational efforts. Furthermore, we were able to identify our specializations around the implementation of digital and frugal technologies for sustainable solutions.",
+    "image" : "../../images/rwanda1.jpg",
+    "videoId" : "6AczfCLJkCQ"
+  },
+  {
+    "title": "Innovate Ghana",
+    "slug": "accra",
+    "content": "<p>The scope of the project was to collaborate with groups in Accra, Ghana to promote adaptable education and new teaching strategies. Over the course of a month, students were exposed to creative ways of thinking through learning strategies, such as community activities, game development and video production inspired by CRI-Paris.</p><p>The high school challenge is an annual challenge that brings together high school students who have invested time and effort to develop a project that addresses local issues. For example, students in the challenge were interested in developing an aggregation system to facilitate intensive work required by farmers on their farms. Immensely talented, the series of students in the competition were capable of turning their ideas into a reality; and, with the help of their mentors the scope of the challenge seeks to enhance current skill sets to continue developing their projects.\n</p>",
+    "description": "The Innovate Ghana team invited Home participants to teach and introduce the students to new methods of pedagogy and develop practical skill sets.",
+    "image" : "../../images/ghana1-2.JPG",
+    "videoId" : "W-kO6kNecZE"
+  }
+]

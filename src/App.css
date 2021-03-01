@@ -1,0 +1,35 @@
+*{
+  box-sizing: border-box;
+  margin: 0;
+  padding: 0;
+  font-family: "Montserrat", sans-serif;
+}
+
+:root{
+  --color1: #f07f22;
+  --color2: #0c0c0c;
+  --color3: #fff;
+  --color4: #262626;
+  --color5: #F7F7F8;
+}
+
+p{
+  color: #7d7c83;
+  margin-bottom: 1rem;
+}
+
+a{
+  text-decoration: none;
+  color: white;
+}
+
+.post-content-view,
+.blog {
+  padding: 40px;
+  width: 600px;
+  max-width: 100%;
+  margin: auto;
+}
+.section{
+  padding: 10%;
+}

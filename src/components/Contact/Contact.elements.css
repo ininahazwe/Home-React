@@ -1,0 +1,52 @@
+.wrapper{
+    display: flex;
+    flex-direction: row;
+    gap: 5px;
+}
+form{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 70vh;
+}
+input, textarea{
+    border: 1px solid whitesmoke;
+    padding: 10px;
+    border-radius: 5px;
+    width: 250px;
+}
+textarea{
+    height: 30vh;
+}
+input[type="submit"]{
+    background: var(--color1);
+    color: white;
+}
+.flash{
+    margin: 20px 0;
+    color: white;
+    background-color: forestgreen;
+    padding: 10px;
+    font-size: 12px;
+}
+.entete{
+    text-align: center;
+    margin-top: 10vh;
+}
+@media screen and (max-width: 768px) {
+    .wrapper {
+        flex-direction: column;
+    }
+    .entete{
+        margin-bottom: 10vh;
+    }
+    input, textarea{
+        width: 180px;
+    }
+}
+
+@media screen and (max-width: 960px) {
+    form {
+        height: 44vh;
+    }
+}
